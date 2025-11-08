@@ -44,24 +44,7 @@ public class sesion {
         sesion.status = status;
     }
     
-    private static int categoryId;
-    private static String categoryName;
-
-    public static int getCategoryId() {
-        return categoryId;
-    }
-
-    public static void setCategoryId(int id) {
-        categoryId = id;
-    }
-
-    public static String getCategoryName() {
-        return categoryName;
-    }
-
-    public static void setCategoryName(String name) {
-        categoryName = name;
-    }
+    
 
     
 }
